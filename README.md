@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Food Application. 
-- 😄 I’m currently working on Admin Panel. 
+- 🔭 I’m currently working on Admin Panel. 
+- 😄 I’m currently working on the Hotel Management Panel. 
 - 🌱 I’m currently learning MongoDb.
 
 
